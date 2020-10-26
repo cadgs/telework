@@ -1,0 +1,16 @@
+{
+    "profile": "GISRouting",
+	"username": "YourOwnArcGISOnlineUsername",
+	"worker_info_csv": "D:\\Class\\GIS\\Input\\NewHire.csv",
+	"employee_number_field": "EMPLOYEE_NUMBER",
+    "work_address_field": "WORK_ADDRESS1",
+    "work_city_field": "WORK_CITY",
+    "work_state_field": "WORK_STATE",
+    "work_zip_field": "WORK_ZIPCODE",
+    "home_address_field": "HOME_ADDRESS1",
+    "home_city_field": "HOME_CITY",
+    "home_state_field": "HOME_STATE",
+    "home_zip_field": "HOME_ZIPCODE",
+    "csv_out": "D:\\GIS\\Output\\output.csv",
+    "log_level": "DEBUG"
+}
