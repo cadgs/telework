@@ -1,0 +1,5 @@
+EMPLOYEE_NUMBER,WORK_ADDRESS1,WORK_CITY,WORK_STATE,WORK_ZIPCODE,HOME_ADDRESS1,HOME_CITY,HOME_STATE,HOME_ZIPCODE
+1,"707 3rd St, West Sacramento, CA 95605",West Sacramento,CA,95605,250 Outcropping Way,Folsom,CA,95630
+2,"707 3rd St, West Sacramento, CA 95605",West Sacramento,CA,95605,3101 Gold Camp Dr,Rancho Cordova,CA,95670
+3,"707 3rd St, West Sacramento, CA 95605",West Sacramento,CA,95605,9646 Butterfield Way,Sacramento,CA,95827
+4,"707 3rd St, West Sacramento, CA 95605",West Sacramento,CA,95605,2000 Evergreen St,Sacramento,CA,95815
