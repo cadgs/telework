@@ -8,6 +8,6 @@ Telework dashboard related files
 
 2. Open the Telework Dashboard Template with Power BI Desktop.  Under "Edit Queries" and Update Paramenters.
    - Commute Outlier Limit
-   - Data Folder (where your Excel files are stored)
+   - Data Folder (where your Excel file is stored)
 
 3. Refresh the report dataset(s).
