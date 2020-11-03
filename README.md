@@ -10,6 +10,6 @@ Telework dashboard related files
    - Data Folder (where your Excel file is stored)
    - (Optional) Commute Outlier Limit (default: 100 miles)
    - (Optional) Average 1-way commute miles (default: 15.4 miles)
-   - (Optional) Average 1-way driving time (default: 27.4 miles)
+   - (Optional) Average 1-way driving time in minutes (default: 27.4 minutes)
    
 3. Refresh the report dataset(s).
