@@ -6,10 +6,10 @@ Telework dashboard related files
 
 1. Prepare 'Employees Telework Details.xlsx' for the week.  Report date should be Monday of the week.
 
-2. Open the Telework Dashboard Template with Power BI Desktop.  Under "Edit Queries" and Update Paramenters.
-   - Data Folder (where your Excel file is stored)
+2. Open the Telework Dashboard Template with Power BI Desktop.  Under "Transform Data" and "Edit paramenters".
+   - (Optional) Average one-way commute miles (default: 15.4 miles)
+   - (Optional) Average one-way driving time in minutes (default: 27.4 minutes)
    - (Optional) Commute Outlier Limit (default: 100 miles)
-   - (Optional) Average 1-way commute miles (default: 15.4 miles)
-   - (Optional) Average 1-way driving time in minutes (default: 27.4 minutes)
-   
+   - Telework Data File (where your Excel file is stored)
+      
 3. Refresh the report dataset(s).
